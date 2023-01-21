@@ -34,7 +34,7 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b36577f4151ccaec82e
 
 
 
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/invasao-zumbi-2-peninsula-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg"group-title="lançamento 2020",Invasão Zumbi 2 - Península
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dGVUiqnahQ4ZZRchGRpO2SyhtQY.jpg"group-title="lançamento 2020",Invasão Zumbi 2 - Península
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:affd9874c4ae0f036a0e321efb9e46431183d1d3
 
 
