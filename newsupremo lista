@@ -190,38 +190,22 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a1fd58a16e5515d48f
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9918a5745251095ad204488e21600062a16de24e
 
 
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/axIreLP9hr0ENvr5kR1sncxuYue.jpg" group-title="lançamento 2020",Crônicas de Natal: Parte Dois
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95ccc8fcfcf74775ea510e05e8d80bb8bef99a56
 
 
-
-
-<title>[COLOR silver][B]Atrás da Linha - Fuga para Dunkirk (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5OFNp1wuHnph8ytCE5HWyAFTLrz.jpg" group-title="lançamento 2020",Atrás da Linha - Fuga para Dunkirk 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:907063476f53cab2a1b77bd80bf67e848af95ca0
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/atras-da-linha-fuga-para-dunkirk-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/atras-da-linha-fuga-para-dunkirk-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>França, II Guerra Mundial. Um grupo de soldados britânicos é capturado pelo alemães. Quando um comandante nazista começa a forçar lutas de boxe para entreter a companhia, os presos percebem que podem usá-las para tentar escapar...</info>
 
 
 
-
-
-<title>[COLOR silver][B]Um Detetive em Chinatown(2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/76Ss6bm6nGwyeCgzqsDesXdPfOY.jpg" group-title="lançamento 2020",Um Detetive em Chinatown
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bacdee0bacac37f7e47fc295e6c2ab1d70f666f0
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/um-detetive-em-chinatown-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/um-detetive-em-chinatown-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Os primos detetives Tang Ren e Qin Feng vão até Nova York pra resolver mais um caso de assassinato misterioso. Dessa vez, eles precisam descobrir quem matou o filho do Tio Qi, o padrinho da Chinatown em Nova York. Para solucionar o crime, eles vão contar com o apoio da Aliança Internacional de Detetives....</info>
 
 
 
-
-
-<title>[COLOR silver][B]Zeroville(2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o1tA9jpbjPLSCuIipJj6PLg0oGG.jpg" group-title="lançamento 2020",Zeroville: A Vida em Hollywood
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:891f386cf15b99ae8a055bbc1a214ff667a261fa
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/zeroville-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/zeroville-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Los Angeles, 1969. Ike Vikar Jerome (James Franco), um estudante de 24 anos que chega a Hollywood disposto a vencer na indústria do cinema. Com as estrelas Montgomery Clift e Elizabeth Taylor tatuadas na cabeça, em cena estrelada pelo casal em Um Lugar ao Sol, Vikar passa a trabalhar como editor e, aos poucos, conhece os bastidores de Hollywood.....</info>
 
 
 
@@ -234,15 +218,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bde5da2a0b8aedffad
 
 
 
-
-
-<title>[COLOR silver][B]Uma Invenção de Natal (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wdqdvFt0AIwnX1spxVwaOOc9p4A.jpg" group-title="lançamento 2020",Uma Invenção de Natal
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22b44326044224f23bc4ba55afab9317cce810c0
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/uma-invencao-de-natal-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/uma-invencao-de-natal-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Um fabricante de brinquedos em apuros, sua neta precoce e uma invenção mágica, se conseguirem fazê-la funcionar a tempo das festas de fim de ano podem mudar suas vidas para sempre......</info>
-
-
 
 
 
