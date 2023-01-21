@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Ujt0FwMwHhAo7QJC0u1HG1m1h.jpg" group-title="lançamento 2020",
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1iYsv6kjLJEElbmtu2ONe_0nVgCHeHovnK90nUG9vC8hv4LmALRcTO11k8Ri_fG4hJRZnpjKwAhULiurcDtKFGohqrPfqWiQflIfV4A2JCcqM-45h0_ShC7WNyo_V5FcuWXZkxt-R-WceCAsqlQBaboKHduvggLQ1r_kLRLZQXF_UJEP54_gs1GM_DQ" group-title="lançamento 2020",
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yaX5hliSF1rwZ9WVNbUchndjFSb.jpg"group-title="lançamento 2020",Demon Slayer - Mugen Train: O Filme (2020)
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27844a520eb9cf8363e88c1d9007db179a9dc552
