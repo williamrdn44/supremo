@@ -8,12 +8,12 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27844a520eb9cf8363e
 
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nv4QdbPFKg98gbaG0nj4Mhjcks.jpg group-title="lançamento 2020",Ameaça no Espaço
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nv4QdbPFKg98gbaG0nj4Mhjcks.jpg"group-title="lançamento 2020",Ameaça no Espaço
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bf1cd813c5d75f350376a332fb08400f1624ef9
 
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg group-title="lançamento 2020",Soul
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bzDAfXoqNAvWUe7uss2NE3BmRqy.jpg"group-title="lançamento 2020",Soul
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7666ae5568ac6eb440842d673d6b333243dce47e
 
   
