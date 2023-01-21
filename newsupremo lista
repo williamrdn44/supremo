@@ -45,11 +45,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d20fe1d037130b13d31
 
 
 
-<title>[COLOR silver][B]Um Brinde ao Natal (2020) [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oI8gJrsVVJ0i5c96KOMufKISUvw.jpg"group-title="lançamento 2020",Um Brinde ao Natal
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b4eead2988194f673b1732a4aadb9cc307f2096
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/um-brinde-ao-natal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/um-brinde-ao-natal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Com seu estilo de vida despreocupado em jogo, um rico encantador se apresenta como um ajudante de fazenda para conseguir que um agricultor trabalhador venda as terras de sua família antes do Natal.....</info>
 
 
 
