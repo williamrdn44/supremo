@@ -137,113 +137,62 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eaf6c42d70db02feb6
 <fanart>https://viatorrents.com/imagens/spycies-agentes-selvagens-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>A comédia de animação repleta de aventura, com um toque ambientalista, que se passa no mundo dos animais, traz dois agentes secretos que, por um acaso da vida, precisam trabalhar juntos em um caso. Vladimir, um gato veterano e marrento não costuma seguir as regras e está acostumado a trabalhar sozinho. Hector, um rato novato que vive numa base militar em local inóspito que passa seu tempo assistindo televisão e jogando videogame. Eles formarão uma dupla improvável para investigar o roubo de um objeto secreto que pode ser usado para destruir o planeta...</info>
 
-  
-
-<title>[COLOR silver][B]A Fera - La belva (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88a9bbafaa0da561995ff414d7b43ca865d39281
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/a-fera-la-belva-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/a-fera-la-belva-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Leonida Riva é um veterano de guerra sombrio e solitário, que já foi capitã das forças especiais do Exército. A vida e o trabalho afastaram Riva de sua família. Seu filho mais velho, Mattia, nunca o perdoou, enquanto sua filha, Teresa, o ama incondicionalmente. No entanto, um evento trágico forçará Leonida a se transformar em algo que ele pensava que havia enterrado no passado.......</info>
-
-  
-  
+ 
   
 
 <title>[COLOR silver][B]Cut Throat City (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0691ede246bb9ed9cf066831aaca17bafaba8d6e
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/cut-throat-city-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
+#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/cut-throat-city-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="lançamento 2020"
 <fanart>https://viatorrents.com/imagens/cut-throat-city-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Quatro amigos de infância retornam para Nova Orleães logo após o furacão Katrina e encontram seus lares destruídos, nenhum emprego e nenhuma ajuda do governo. Desesperados, eles entram em um grande esquema de assalto e acabam em uma enrascada. Fugindo da polícia e dos gangsters locais, eles decidem se voltar contra os grandes donos de cassinos, que tanto tiraram da sua cidade.......</info>
 
   
 
 
-<title>[COLOR silver][B]The Tax Collector (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKIpwnl3KOoKuTPjHdvWTSZzeF0.jpg" group-title="lançamento 2020",Cidade Implacável
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a12bf89491632b7149ab26fc5f79c0ba23a7472
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/the-tax-collector-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/the-tax-collector-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>David e Creeper são coletores de taxas para o chefão do crime chamado Wizard, que pega uma parte dos lucros de todas as operações ilegais de outras gangues. Mas quando um rival de seu chefe retorna para Los Angeles vindo do México, David irá precisar tomar medidas drásticas para proteger sua família......</info>
 
 
 
-
-
-
-<title>[COLOR silver][B]A Vida Gira (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dOIb7faqFhXJwvG5jPO0yT3KkzK.jpg" group-title="lançamento 2020",A Vida Gira
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f90485f5fb8ccc13e4eaddf63e946a5c07e1f37d
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/a-vida-gira-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/a-vida-gira-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Quando os sonhos do jovem Joshua se chocam com a realidade, ele precisa tomar uma importante decisão que pode corrigir os erros do passado ou consolidar seu destino......</info>
 
 
 
 
-
-<title>[COLOR silver][B]40 Dias - O Milagre da Vida (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kyoSXlgV8OMGyAfBHwyDECp1m5f.jpg" group-title="lançamento 2020",40 Dias - O Milagre da Vida
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32cf2ac1eda76cb27037017be59745077ff03cd7
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/40-dias-o-milagre-da-vida-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/40-dias-o-milagre-da-vida-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Como uma das diretoras mais jovens do Planned Parenthood no país, Abby Johnson esteve envolvida em mais de 22.000 abortos e aconselhou inúmeras mulheres em suas escolhas reprodutivas. Sua paixão em torno do direito de escolha de uma mulher a levou a se tornar uma porta-voz da Planned Parenthood, lutando para promulgar legislação para a causa em que ela acreditava profundamente. Até o dia em que ela viu algo que mudou tudo......</info>
 
 
 
 
-<title>[COLOR silver][B]Mosul (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2vjephttoBH1ujOZcsqWlftLbhg.jpg" group-title="lançamento 2020",Mosul
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:342f579b876de17816c14c71ca2e249c4d3590cf
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/mosul-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/mosul-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Baseado na verdadeira história de uma unidade de polícia de elite composta quase inteiramente de filhos de Mosul que lutaram para libertar a cidade iraquiana de seis mil terroristas do Estado Islâmico.......</info>
 
 
-  
-
-<title>[COLOR silver][B]Procurada (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:887c42682b42ed5ff3bd31b1206d36477f7556ad
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/procurada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/procurada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Um vírus mortal está matando todas as mulheres do mundo. Como a jovem Eva (Freida Pinto) sobrevive, ela passa a viver escondida com seu marido, Will (Leslie Odom Jr.). Quando pessoas descobrem que ela ainda está viva, agentes do governo e caçadores de recompensa passam a caçá-la, e o casal embarca numa fuga perigosa...</info>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zftgIV8k5PzFfumIq79a7qMapoH.jpg" group-title="lançamento 2020",Procurada
 
 
 
-
-
-
-<title>[COLOR silver][B]O Preço da Ajuda (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AtEJijLgl5whqCSld0dMYbsz0PH.jpg" group-title="lançamento 2020",O Preço da Ajuda
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dd96b2cdbefb031050b8ae0517e9c84ff788ce2
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/o-preco-da-ajuda-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/o-preco-da-ajuda-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Karen nunca planejou ser uma heroina. Viúva recente, ela tem as mãos cheias de trabalho e é mãe de Max. Então Karen salva a vida de Jeremy durante um assalto a uma farmácia e rapidamente descobre que o jovem está disposto a pagá-la a qualquer custo. A princípio, a vida começa a melhorar para essa boa samaritana, mas à medida que os esforços de Jeremy se tornam mais extremos, Karen começa a se perguntar se nenhuma boa ação realmente fica impune.....</info>
 
 
 
 
-
-<title>[COLOR silver][B]Tio Frank (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3yozs3oGY0ubwf4cKQKOMWqNx3.jpg" group-title="lançamento 2020",Tio Frank
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a1fd58a16e5515d48f9b083f9d1b51266935a60
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/tio-frank-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/tio-frank-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Em 1973, Frank Bledsoe e sua sobrinha de 18 anos, Beth, viajam de Manhattan a Creekville, Carolina do Sul, para o funeral do patriarca da família, inesperadamente se juntam a ele, o amante de Frank, Walid.....</info>
 
 
 
-
-
-<title>[COLOR silver][B]Blackout (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg" group-title="lançamento 2020",Blackout
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9918a5745251095ad204488e21600062a16de24e
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/blackout-a-batalha-final-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/blackout-a-batalha-final-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Nenhum meteorito atingiu a Terra, nenhum terrorista colocou o mundo em perigo, nenhuma guerra atômica foi iniciada, mas algo deu errado. O contato entre a maioria das cidades da Terra foi cortado. Uma pequena área semelhante a um anel na Europa Oriental ainda tem eletricidade. O que forças militares encontram fora do Anel é chocante. Há cadáveres mortos em todos os lugares: nas lojas, nos carros, nas estradas, nos hospitais e nas estações ferroviárias. Quem ou o que está destruindo toda a vida na Terra? Por quanto tempo o último posto avançado da humanidade sobreviverá?....</info>
 
 
 
-
-
-<title>[COLOR silver][B]Crônicas de Natal - Parte Dois (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/axIreLP9hr0ENvr5kR1sncxuYue.jpg" group-title="lançamento 2020",Crônicas de Natal: Parte Dois
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95ccc8fcfcf74775ea510e05e8d80bb8bef99a56
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/cronicas-de-natal-parte-dois-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/cronicas-de-natal-parte-dois-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Kate Pierce, agora uma jovem sarcástica, junta-se novamente ao Papai Noel quando um misterioso encrenqueiro ameaça cancelar o Natal. Para sempre...</info>
-
 
 
 
