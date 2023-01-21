@@ -38,10 +38,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b36577f4151ccaec82e
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:affd9874c4ae0f036a0e321efb9e46431183d1d3
 
 
-<title>[COLOR silver][B]A Vingança da Babá (2020) [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iw0N8q4hHAtIDOdNXzBScL5XzOm.jpg" group-title="lançamento 2020",A Vingança da Babá
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d20fe1d037130b13d3163756b0817ce4273147ea
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/a-vinganca-da-baba-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/a-vinganca-da-baba-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 <info>Stella Armstrong contrata Blake, uma babá aparentemente perfeita, para ajudar com sues filhos gêmeos, apenas para descobrir que a jovem é a filha que ela deu para adoção.....</info>
 
 
