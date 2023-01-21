@@ -19,12 +19,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7666ae5568ac6eb4408
 
   
   
-
-<title>[COLOR silver][B]Mulher-Maravilha 1984 (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/mulher-maravilha-1984-r5-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="lançamento 2020",Maravilha 1984
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7db68e4a0d206d02f31e2a702f8a5980da63fda3
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/mulher-maravilha-1984-r5-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/mulher-maravilha-1984-r5-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis — Maxwell Lord e a Mulher-Leopardo — enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor...</info>
 
 
   
@@ -32,11 +28,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7db68e4a0d206d02f31
   
 
 
-<title>[COLOR silver][B]Rogue Warfare - Ameaça Global (2020) [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b36577f4151ccaec82edd0691791384f2a4f72e0
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/rogue-warfare-ameaca-global-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/rogue-warfare-ameaca-global-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>A Organização da Máscara Negra coordena uma trama distorcida que devastará o mundo nas próximas 36 horas....</info>
+#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/rogue-warfare-ameaca-global-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="lançamento 2020",Ameaça Global
 
 
 
