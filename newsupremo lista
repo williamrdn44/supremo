@@ -74,9 +74,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c9d6da9409225dc14
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5d3e18dbdfac9db27e369bbcddff2ce1240f3b1
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jbNYpZoe1TMw2L78VGS8NTspAwj.jpg" group-title="lançamento 2020",A Árvore dos Desejos
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e49ccb24e20b3bd1c5e40f811aaf7f17ed4e91c6
 
@@ -86,46 +83,17 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:386deba3b9b01f86894
 
 
 
-
-
-
-<title>[COLOR silver][B]Natal Sob Fogo Cruzado (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:386deba3b9b01f86894e3f31ef8fae9199dc085a
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/natal-sob-fogo-cruzado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/natal-sob-fogo-cruzado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Um homem frustra uma tentativa de homicídio e, em seguida, foge da tripulação de supostos assassinos junto com seu alvo pretendido enquanto uma mulher que ele acabou de conhecer tenta encontrá-lo.......</info>
-
-
-
-
-
-<title>[COLOR silver][B]Natal Sob Fogo Cruzado (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7yE9Iz8EDKloNEsOdc2WvGm6ZtG.jpg" group-title="lançamento 2020",Natal Sob Fogo Cruzado
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b658ebe4c285e2552f3d2033049005ce67342ab4
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/natal-sob-fogo-cruzado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/natal-sob-fogo-cruzado-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Um homem frustra uma tentativa de homicídio e, em seguida, foge da tripulação de supostos assassinos junto com seu alvo pretendido enquanto uma mulher que ele acabou de conhecer tenta encontrá-lo.......</info>
 
 
-
-
-
-<title>[COLOR silver][B]O Som Do Silêncio (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gjKlQJlWtP61ZN4WKbcSVHzjqq8.jpg" group-title="lançamento 2020",O Som Do Silêncio
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74f2fbaca4551e1e6deec725fba63ae0f123d126
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/o-som-do-silencio-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/o-som-do-silencio-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Ruben (Riz Ahmed) é o baterista e a segunda metade de sua dupla musical Blackgammon, juntamente com sua namorada vocalista Lou (Olivia Cooke). Um ex-dependente químico e sóbrio há quatro anos, ele repentinamente começa a perder sua audição. Com ajuda de Lou e um carismático líder de uma comunidade de deficientes auditivos, ele luta para aceitar sua nova condição.....</info>
 
 
 
-
-
-
-<title>[COLOR silver][B]Estranho mas Verdade (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uLONkqT3TGUJHN6enTSiQGRuViz.jpg" group-title="lançamento 2020",Estranho mas Verdade 1h 36m
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8657c5095c2602d79762567886488a5af76db0d2
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/estranho-mas-verdade-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/estranho-mas-verdade-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Uma mulher surpreende a família de seu falecido namorado, dizendo-lhes que está grávida de seu filho......</info>
-
 
 
 
