@@ -40,7 +40,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:affd9874c4ae0f036a0
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iw0N8q4hHAtIDOdNXzBScL5XzOm.jpg" group-title="lançamento 2020",A Vingança da Babá
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d20fe1d037130b13d3163756b0817ce4273147ea
-<info>Stella Armstrong contrata Blake, uma babá aparentemente perfeita, para ajudar com sues filhos gêmeos, apenas para descobrir que a jovem é a filha que ela deu para adoção.....</info>
 
 
 
@@ -71,30 +70,19 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c9d6da9409225dc14
 
 
 
-
-<title>[COLOR silver][B]Capital Humano (2020) [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i7357OJlUUKs936Ur6HfQ4vvMMJ.jpg" group-title="lançamento 2020",Capital Humano
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5d3e18dbdfac9db27e369bbcddff2ce1240f3b1
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/capital-humano-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/capital-humano-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
 
 
 
 
 
-
-<title>[COLOR silver][B]A Árvore dos Desejos (2020) [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jbNYpZoe1TMw2L78VGS8NTspAwj.jpg" group-title="lançamento 2020",A Árvore dos Desejos
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e49ccb24e20b3bd1c5e40f811aaf7f17ed4e91c6
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/a-arvore-dos-desejos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/a-arvore-dos-desejos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>O desejo equivocado de um jovem gambá por um Wishmas branco congela toda a sua cidade natal de Sanctuary City e ameaça todos os que vivem lá...........</info>
 
 
-
-<title>[COLOR silver][B]Guerra Sem Fim - A Espada é a Lei (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vXpm14VfoKnwaWKbBQi3hpc4TGQ.jpg" group-title="lançamento 2020",Guerra Sem Fim - A Espada é a Lei
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:386deba3b9b01f86894e3f31ef8fae9199dc085a
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/guerra-sem-fim-a-espada-e-a-lei-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/guerra-sem-fim-a-espada-e-a-lei-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>O Império Romano ocupou a Britânia por quatro séculos, fornecendo proteção e paz em troca de submissão. No século 5, entretanto, os romanos partem, deixando para trás o povo bretão, que precisa sobreviver sozinho sob a liderança do Rei Vortigern........</info>
 
 
 
