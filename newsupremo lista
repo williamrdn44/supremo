@@ -98,11 +98,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8657c5095c2602d7976
 
 
 
-<title>[COLOR silver][B]Beleza Negra - Uma Amizade Verdadeira (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xKhhceZfAzrfgetI7j69bVJimOL.jpg" group-title="lançamento 2020",Beleza Negra - Uma Amizade Verdadeira
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25a1f928967bc3ff817238c4d8694edb9ebb1f99
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/beleza-negra-uma-amizade-verdadeira-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/beleza-negra-uma-amizade-verdadeira-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Beleza Negra centra-se no vínculo profundo e duradouro entre uma menina de 17 anos (Mackenzie Foy) e o amado cavalo selvagem que a ajuda a superar o trauma de sua perda após a morte de seus pais.......</info>
 
 
 
@@ -129,13 +126,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e8044eb223dd2a10a7
 
 
 
-<title>[COLOR silver][B]Crime e Desejo (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h41DZREsYkm9Nq0HZ9YMP2pWlJg.jpg" group-title="lançamento 2020",Crime e Desejo
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:111abfd297df285d5a69de9f4144bf401c9f6afe
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/crime-e-desejo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/crime-e-desejo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Susan Smith (Emilia Clarke) é uma jovem dependente de drogas que sonha em sair de seu pequeno vilarejo nas montanhas. Quando Mark Putnam (Jack Huston), um atraente e casado agente do FBI, chega à cidade para investigar uma série de roubos a banco, e a recruta como informante, ela vê a possibilidade de um recomeço. Logo os dois se envolvem num perigoso relacionamento afetivo com graves consequências para ambos.....</info>
-
-
 
 
 
