@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1iYsv6kjLJEElbmtu2ONe_0nVgCHeHovnK90nUG9vC8hv4LmALRcTO11k8Ri_fG4hJRZnpjKwAhULiurcDtKFGohqrPfqWiQflIfV4A2JCcqM-45h0_ShC7WNyo_V5FcuWXZkxt-R-WceCAsqlQBaboKHduvggLQ1r_kLRLZQXF_UJEP54_gs1GM_DQ" group-title="lançamento 2020",
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yaX5hliSF1rwZ9WVNbUchndjFSb.jpg"group-title="lançamento 2020",Demon Slayer - Mugen Train: O Filme (2020)S
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yaX5hliSF1rwZ9WVNbUchndjFSb.jpg"group-title="lançamento 2020",Demon Slayer - Mugen Train: O Filme 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27844a520eb9cf8363e88c1d9007db179a9dc552
 
 
@@ -107,44 +107,25 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25a1f928967bc3ff817
 
 
 
-
-<title>[COLOR silver][B]AVA (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6llUjNLsLiAcpIOer9LR631HPoU.jpg" group-title="lançamento 2020", ava
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62cca1e1669c30350dd7f9ad735889f2feb44d21
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/ava-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/ava-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Ava é uma assassina que trabalha matando alvos de alto-nível para uma organização secreta. Mas quando uma missão dá terrivelmente errado, ela é forçada a lutar pela própria sobrevivência........</info>
 
 
 
 
-
-
-<title>[COLOR silver][B]The Silencing (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pE0rAuyupUL326JsgG5FwK7a2tb.jpg" group-title="lançamento 2020",O Silêncio
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036740c50a60e13b5e8351191a241a22b0a40888
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/the-silencing-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/the-silencing-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Um caçador aposentado vive isolado em um santuário de vida selvagem se envolve em um jogo mortal de gato e rato quando ele e o xerife local partem para rastrear um assassino cruel que pode ter sequestrado sua filha anos atrás........</info>
 
 
 
 
-<title>[COLOR silver][B]Fukushima - Ameaça Nuclear (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aj9mQjMn5cL04ZXigG60gbLPNWO.jpg" group-title="lançamento 2020",Fukushima - Ameaça Nuclear
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:305087d8e89258c427ee06f2c9370aeec469b076
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/fukushima-ameaca-nuclear-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/fukushima-ameaca-nuclear-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Um longa-metragem sobre o desastre da usina nuclear de 2011 no Japão, quando um tsunami pós-terremoto atingiu a usina de Fukushima Daiichi e causou um derretimento dos reatores nucleares. A história centra-se nos trabalhadores, incluindo o supervisor de turno Isaki (Koichi Sato) e o superintendente local Yoshida (Ken Watanabe), que arriscaram suas vidas e permaneceram na usina para evitar a destruição total dos reatores superaquecidos e minimizar a devastação que poderia afetar a vida de 50 milhões de pessoas. - Os trabalhadores que retornaram foram apelidados de “Fukushima 50” pela mídia. - Baseado no livro "On the Brink: The Inside Story of Fukushima Daiichi", escrito por Ryusho Kadota........</info>
 
 
 
-
-
-<title>[COLOR silver][B]A Rosa Venenosa (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g0yhg61JGBjoWlqj9Lus3XiQA3i.jpg" group-title="lançamento 2020",A Rosa Venenosa
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e8044eb223dd2a10a7aa4cfd95c423e4d8024e9
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/a-rosa-venenosa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/a-rosa-venenosa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Inspirado no clássico filme noir The Poison Rose, estrelado por Carson Phillips, uma ex-astro de futebol virou detetive particular, que tem um fraquinho por uma senhora em perigo. Como os contos clássicos fiados pelos mestres, ele assume um caso de pessoa desaparecida que lentamente se revela uma teia complexa de crimes, suspeitos e cadáveres. Quando ele descobre que sua filha há muito tempo perdida, é o suspeito número um, ele corre contra o relógio para salvá-la, resolver os assassinatos, e descobrir os segredos sujos da cidade....</info>
-
-
 
 
 
