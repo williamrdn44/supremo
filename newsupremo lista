@@ -51,37 +51,22 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b4eead2988194f673b
 
 
 
-
-<title>[COLOR silver][B]Contra o Relógio (2020) [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hitZTgYwqGwKB7GsWDKOSJooNXw.jpg" group-title="lançamento 2020",Contra o Relógio 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e92b29925ef8fe00d500f7cfd1e794ffcc1ebdb9
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/contra-o-relogio-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qAHr52Tzmn2Nywsj9bPb1V18jdm.jpg"group-title="lançamento 2020",A Voz Suprema do Blues
-https://archive.org/download/gusttavo-lima-termina-comigo-antes-ao-vivo-em-porto-alegre/Gusttavo%20Lima%20-%20Termina%20Comigo%20Antes%20%20%28Ao%20Vivo%20em%20Porto%20Alegre%29.mp3
 
-
-
-
-
-#EXTINF:-1 A Face da Verdade (2020)
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/JAShb31Bbn03ZluMvbfmCHLZcR.jpg" group-title="lançamento 2020",A Face da Verdade
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e7edcf56732b1ef2631eca2b7224e4cdda80055
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/a-face-da-verdade-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/a-face-da-verdade-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Um soldado chamado Jack está no campo de batalha e, após receber uma carta de sua amada esposa Eva, deixa sua unidade militar, corre pelo campo e encontra o vale onde Eva mora. Lá, Jack encontra algum trabalho, enquanto sonha com Eva e em criar sua própria casa e ter um bebê. De repente, a polícia secreta aparece. Para piorar, Bar, o cruel proprietário de uma fábrica local, está interessado em Eva e fará de tudo para que Jack saia do caminho........</info>
 
 
 
 
-
-<title>[COLOR silver][B]O Caminho de Volta (2020) [/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/htwqnN0zyM1zpY9DgO7dWwq4m2S.jpg" group-title="lançamento 2020",O Caminho de Volta
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c9d6da9409225dc142d426ba1d6d1dbb2b1fb5
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/o-caminho-de-volta-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/o-caminho-de-volta-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Um ex-jogador de basquete profissional perde sua esposa e sua família quando enfrenta a luta contra o vício. Ele tenta retomar sua alma e salvação ao se tornar o treinador de um diversificado time escolar.........</info>
 
 
 
@@ -91,7 +76,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c9d6da9409225dc14
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5d3e18dbdfac9db27e369bbcddff2ce1240f3b1
 #EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/capital-humano-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
 <fanart>https://viatorrents.com/imagens/capital-humano-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>O filme segue a vida de duas famílias - uma de classe média e a outra privilegiada - suas vidas se entrecruzam na divisão social quando dois de seus filhos de repente iniciam um relacionamento, que leva a um trágico acidente..........</info>
 
 
 
