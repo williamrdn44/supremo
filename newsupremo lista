@@ -178,12 +178,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bacdee0bacac37f7e47
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:891f386cf15b99ae8a055bbc1a214ff667a261fa
 
 
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6RcWaW43UWIJzhIp6bcmui2efd.jpg" group-title="Filmes 2020"
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bde5da2a0b8aedffad46f544bf11a8793cbafbd
-
-
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wdqdvFt0AIwnX1spxVwaOOc9p4A.jpg" group-title="Filmes 2020",Uma Invenção de Natal
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22b44326044224f23bc4ba55afab9317cce810c0
 
@@ -2683,7 +2677,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:951b8aa4b3ef44df84a
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGKI0beu1B7eLEkMAMT5nNToKFZ.jpg group-title="Filmes 2020"
 
 
-                             XXXXXXXXXXXXXXXXXXXXXXXXXXXXX  SERIADOSXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6gcHdboppvplmBWxvROc96NJnmm.jpg" group-title="Seriados|Round 6"
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6gcHdboppvplmBWxvROc96NJnmm.jpg" group-title="Seriados",Round 6",
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:146316439516089335a8f6956b4c631737ea720b
                    
