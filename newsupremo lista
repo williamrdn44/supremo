@@ -2683,4 +2683,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:951b8aa4b3ef44df84a
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6gcHdboppvplmBWxvROc96NJnmm.jpg"group-title="Seriados",Round 6
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:146316439516089335a8f6956b4c631737ea720b
-                   
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auQMwodfDOBXd9rOlrDjsQ7UsmT.jpg"group-title="Seriados",Os Feiticeiros de Waverly Place 
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:280B2A84506405FCA48F51B2574332F70BDCB83D&dn=Os%20Feiticeiros%20de%20Waverly%20Place&tr=http://www.malucos-share.org/announce.php?passkey=4e27858e13f2d62b28b9e837f5945e0d                   
