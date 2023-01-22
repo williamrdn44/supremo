@@ -242,11 +242,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df8d93a68dad9ccc947
 
 
 
-<title>[COLOR silver][B]Bob Esponja - O Incrível Resgate (2020)[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d88x4Jnyhr4xErOYeJCspcxI34h.jpg" group-title="lançamento|Animção 2020",Bob Esponja - O Incrível Resgate
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:840f44334831541e2fa79eade6dfac74338c6463
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/bob-esponja-o-incrivel-resgate-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="lançamento 2020"
-<fanart>https://viatorrents.com/imagens/bob-esponja-o-incrivel-resgate-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Situado antes do desenho animado, Bob Esponja viaja até o Kamp Koral, onde conhece vários novos amigos. Mas quando seu caracol de estimação Gary é sequestrado por Poseidon e levado até a Cidade Perdida de Atlântida, ele e seu novo melhor amigo Patrick precisam embarcar numa missão de resgate antes que seja tarde demais!..</info>
 
 
 
