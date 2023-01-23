@@ -229,44 +229,22 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:840f44334831541e2fa
 
 
 
-<title>[COLOR silver][B]Luta Pela Fé ()[/COLOR][/B][COLOR y#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9tN9nPpVA1qkejzwi5yk3W1NjAV.jpg" group-title="Filmes ",Luta Pela Fé
-ellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9tN9nPpVA1qkejzwi5yk3W1NjAV.jpg" group-title="Filmes ",Luta Pela Fé
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:623aa406c0b7467bbf76c56b95f9ae16f33377d2
 
 
 
-<title>[COLOR silver][B]Rogue City  ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9HT9982bzgN5on1sLRmc1GMn6ZC.jpg" group-title="Filmes ",Rogue City 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3ffca78d1bf86c1036809990aa49e75bbce4484
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/rogue-city-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/rogue-city-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Marselha. Tudo começa com a carnificina causada pelos homens do clã Orsoni. Richard Vronski, um policial da brigada anti-gangue com métodos pouco ortodoxos, se vê encarregado da investigação, enfrentando seus rivais, comandados por Costa, major da polícia. Um novo diretor, o comissário Angel Leonetti chega para dominar os cães loucos de sua equipe. Mas todos perceberão rapidamente que não se recebe nada sem sacrifícios ou riscos...</info>
 
 
-
-
-
-<title>[COLOR silver][B]O Grande Ivan  ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iLqOH0SSJ1hy3Y1POl5cr6H1RtL.jpg" group-title="Filmes ",O Grande Ivan 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3247e56cb189a8a79744a36fda03762466c4278a
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/o-grande-ivan-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/o-grande-ivan-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Ivan é um gorila muito especial, no entanto, ele sofre por não saber sobre o seu próprio passado. Com a ajuda de sua amiga Stela, uma elefante, eles vão atrás de pistas para desvendar os mistérios relacionados à vida passada de Ivan e planejam uma fuga do cativeiro em que vivem..</info>
 
 
 
-
-
-
-<title>[COLOR silver][B]Refugiado ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/p2rgpxCwXwgTXaymErpHwx6luG2.jpg" group-title="Filmes ",Refugiado
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7be8544831b6c1e50b1d0080224401ef557e8e04
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/refugiado-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/refugiado-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Ivan é um gorila muito especial, no entanto, ele sofre por não saber sobre o seu próprio passado. Com a ajuda de sua amiga Stela, uma elefante, eles vão atrás de pistas para desvendar os mistérios relacionados à vida passada de Ivan e planejam uma fuga do cativeiro em que vivem..</info>
-
-
-
-
-
-
 
 
 <title>[COLOR silver][B]O Pequeno Órfão - Rémi sans famille ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
