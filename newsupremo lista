@@ -2578,3 +2578,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:280B2A84506405FCA48
 
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1iYsv6kjLJEElbmtu2ONe_0nVgCHeHovnK90nUG9vC8hv4LmALRcTO11k8Ri_fG4hJRZnpjKwAhULiurcDtKFGohqrPfqWiQflIfV4A2JCcqM-45h0_ShC7WNyo_V5FcuWXZkxt-R-WceCAsqlQBaboKHduvggLQ1r_kLRLZQXF_UJEP54_gs1GM_DQ", group-title="Animação "
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yaX5hliSF1rwZ9WVNbUchndjFSb.jpg"group-title="Seriados ",The Last of Us ep1
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27844a520eb9cf8363e88c1d9007db179a9dc552
