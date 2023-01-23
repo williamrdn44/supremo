@@ -247,25 +247,13 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3247e56cb189a8a7974
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7be8544831b6c1e50b1d0080224401ef557e8e04
 
 
-<title>[COLOR silver][B]O Pequeno Órfão - Rémi sans famille ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9cdGOnHbMVqoUNcRfRNAKVZv3nm.jpg" group-title="Filmes ",O Pequeno Órfão
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dd2d49a494235d638d8c996a6f72fec48549c7d
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/o-pequeno-orfao-remi-sans-famille-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/o-pequeno-orfao-remi-sans-famille-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>As aventuras do jovem Rémi, cuidado pela gentil Sra Barberin. Aos 10 anos, ele é arrancado de sua mãe adotiva e confiado ao senhor Vitalis, um músico itinerante misterioso. Ao seu lado, ele vai aprender a dura vida de showman e cantar para ganhar o pão. Acompanhado pelo fiel cão Capi e o macaco Joli-Coeur, sua longa viagem através da França, de encontros, amizades e apoio mútuo, leva o segredo de suas origens.......</info>
-
-
-
 
 
 <title>[COLOR silver][B]O Cobrador de Dívidas 2 ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1696aaa8f2e4c3ba94c5c5e44ab4b68e44e20c26
 #EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/o-cobrador-de-dividas-2-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/o-cobrador-de-dividas-2-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Dois cobradores de dívidas são encurralados em uma situação explosivamente perigosa, perseguindo vários vilões e também fugindo de um chefão vingativo..</info>
-
-
-
-
 
 
 <title>[COLOR silver][B]Borat - Fita de Cinema Seguinte ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
