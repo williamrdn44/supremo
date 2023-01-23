@@ -241,14 +241,9 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e207e54bd91d7a4e5e7
 
 
 
-<title>[COLOR silver][B]Luta Pela Fé ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+<title>[COLOR silver][B]Luta Pela Fé ()[/COLOR][/B][COLOR y#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9tN9nPpVA1qkejzwi5yk3W1NjAV.jpg" group-title="Filmes ",Luta Pela Fé
+ellow][B][/COLOR][/B]</title>
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:623aa406c0b7467bbf76c56b95f9ae16f33377d2
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/luta-pela-fe-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/luta-pela-fe-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Quando Willard e Rebecca Bean são chamados em uma missão a uma cidade hostil, eles devem escolher entre lutar pelo seu direito de morar lá ou amar seus vizinhos hostis...</info>
-
-
-
 
 
 
