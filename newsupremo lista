@@ -236,13 +236,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f968876c877f69dc13c
 
 
 
-<title>[COLOR silver][B]Sonho Olímpico ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQxTK2Tg8YKNJFpg6bt48IoG7py.jpg" group-title="Filmes",Sonho Olímpico
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e207e54bd91d7a4e5e7c267f1abfab4e7efe02df
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/sonho-olimpico-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/sonho-olimpico-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Penelope (Alexi Pappas) é uma jovem esquiadora competindo nas Olimpíadas de Inverno. Quando, depois de uma competição decepcionante, ela conhece Ezra (Nick Kroll), um dentista voluntário, os dois formam uma profunda conexão..</info>
-
-
 
 
 
@@ -2675,8 +2670,12 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:951b8aa4b3ef44df84a
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1iYsv6kjLJEElbmtu2ONe_0nVgCHeHovnK90nUG9vC8hv4LmALRcTO11k8Ri_fG4hJRZnpjKwAhULiurcDtKFGohqrPfqWiQflIfV4A2JCcqM-45h0_ShC7WNyo_V5FcuWXZkxt-R-WceCAsqlQBaboKHduvggLQ1r_kLRLZQXF_UJEP54_gs1GM_DQ" group-title="Seriados",
 
 
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg"group-title="Seriados",Wandinha
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MKZVVBOWI3HUOAEIERYQYFBZWSTKDGIT&dn=VEMTORRENT.COM..MKV.Wednesday.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.x264.DUAL-www.animestotais.xyz&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce
+
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6gcHdboppvplmBWxvROc96NJnmm.jpg"group-title="Seriados",Round 6
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:146316439516089335a8f6956b4c631737ea720b
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auQMwodfDOBXd9rOlrDjsQ7UsmT.jpg"group-title="Seriados",Os Feiticeiros de Waverly Place 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:280B2A84506405FCA48F51B2574332F70BDCB83D&dn=Os%20Feiticeiros%20de%20Waverly%20Place&tr=http://www.malucos-share.org/announce.php?passkey=4e27858e13f2d62b28b9e837f5945e0d                   
