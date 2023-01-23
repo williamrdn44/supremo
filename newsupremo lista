@@ -251,40 +251,22 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7be8544831b6c1e50b1
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dd2d49a494235d638d8c996a6f72fec48549c7d
 
 
-<title>[COLOR silver][B]O Cobrador de Dívidas 2 ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dcWNH4CLkQV5RSwKmpObmXmOklJ.jpg" group-title="Filmes ",O Cobrador de Dívidas 2
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1696aaa8f2e4c3ba94c5c5e44ab4b68e44e20c26
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/o-cobrador-de-dividas-2-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
 
 
-<title>[COLOR silver][B]Borat - Fita de Cinema Seguinte ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h4ciG34AaQLfk38ltBGMDdxLeF5.jpg" group-title="Filmes ",Borat - Fita de Cinema Seguinte
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:559B82451A3945D1958B91FDB06A1352471CE6A6
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/borat-fita-de-cinema-seguinte-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/borat-fita-de-cinema-seguinte-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Filme de seguimento da comédia de 2006 centrada nas aventuras da vida real de um jornalista de televisão cazaque fictício chamado Borat..</info>
 
 
 
-
-
-
-<title>[COLOR silver][B]Guerra das Colas()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gYgwhIiUxYfh9MD2HR3BhYkYaLW.jpg" group-title="Filmes ",Guerra das Colas
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d95c8242005641f6ddeb3069af7034e758d9e4f
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/guerra-das-colas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/guerra-das-colas-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Um olhar sobre a história e a disputa entre Coca-Cola e Pepsi no mercado de refrigerantes...</info>
 
 
 
-
-
-<title>[COLOR silver][B]Phineas and Ferb, O Filme - Candace Contra o Universo()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/phineas-and-ferb-o-filme-candace-contra-o-universo-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes ",Phineas and Ferb, O Filme - Candace Contra o Universo
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03A78C8280B0ED6A9DAE2B49B1D6E8CD93A1BDE4
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/phineas-and-ferb-o-filme-candace-contra-o-universo-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/phineas-and-ferb-o-filme-candace-contra-o-universo-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Phineas e Ferb atravessam o universo para resgatar a irmã mais velha, Candance, que foi sequestrada por alienígenas e acabou achando um planeta livre dos irmãos irritantes....</info>
-
-
-
 
 
 
