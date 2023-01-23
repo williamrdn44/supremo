@@ -2585,3 +2585,4 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6f9ad9bcec466aeb30
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg"group-title="Seriados",The Last of Us ep2
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a62b9c45067e62ce60560c613f6e500ac1658f8b&dn=VEMTORRENT.COM.-DUBLADO-DUAL-AUDIO-.The.Last.of.Us.S01E02.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
