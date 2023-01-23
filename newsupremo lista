@@ -265,10 +265,10 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d95c8242005641f6dd
 
 
 
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/phineas-and-ferb-o-filme-candace-contra-o-universo-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes ",Phineas and Ferb, O Filme - Candace Contra o Universo
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xNYCXgfBZiFdPcSY5h1AGxly7W8.jpg" group-title="Filmes ",Phineas and Ferb, O Filme - Candace Contra o Universo
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03A78C8280B0ED6A9DAE2B49B1D6E8CD93A1BDE4
 
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/phineas-and-ferb-o-filme-candace-contra-o-universo-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Animação ",Phineas and Ferb, O Filme - Candace Contra o Universo
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xNYCXgfBZiFdPcSY5h1AGxly7W8.jpg" group-title="Animação ",Phineas and Ferb, O Filme - Candace Contra o Universo
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03A78C8280B0ED6A9DAE2B49B1D6E8CD93A1BDE4
 
 
@@ -277,47 +277,35 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:119f71bd8af95dbef62
 
 
 
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/a-redencao-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes ",A redenção
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/epbyGz8drJMTL2f8absrO1RHH6G.jpg" group-title="Filmes ",A redenção
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56dfd7a8e6d14270d2fedf667f4c13fad93309a4
 
 
 
 
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/fuga-de-pretoria-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes ",Fuga de Pretória
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hCfbTvx2R0fZIeXN0UKC3gfXlvG.jpg" group-title="Filmes ",Fuga de Pretória
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f968c3d86b376fd8f04350cc21ec1fca52887f9b
 
 
 
 
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/a-caminho-da-lua-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes ",A Caminho da Lua
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7jalZ1oVkuuVXek0B2BKrFWMUv9.jpg" group-title="Filmes ",A Caminho da Lua
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:135b3bbfffa2bfe57c0bc7f621c794bb87a45c91
 
 
 
-
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/agente-infiltrada-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes ",Agente Infiltrada  
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7PpgvIQlaYLL3HSNwidsppnpf3A.jpg" group-title="Filmes ",Agente Infiltrada  
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bce87f1744cf7ec7012ccd5932e056c6e4d94a28
 
 
 
-
-<title>[COLOR silver][B]Capturado  ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pRK90muejLJI2dxFt6LsqA8mD3.jpg" group-title="Filmes ",Capturado
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:275bd898e4f91329dde6c918fd15415473ed4b02
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/capturado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/capturado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>O filho de um ex-agente das forças especiais é sequestrado e enterrado dentro de um caixão no deserto. Se ele quer ver seu filho vivo novamente, então ele deve completar três missões em menos de 5,5 horas antes de seu filho ficar sem oxigênio. Suas missões são eliminar três perigosos grupos internacionais..</info>
 
 
 
-
-
-<title>[COLOR silver][B]Sociedade Secreta dos Segundos Filhos Reais  ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9f4D8zjF9fUEVI42WWBcvuRKytL.jpg" group-title="Filmes ",Sociedade Secreta dos Segundos Filhos Reais
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ad049b8b1738e2df96ff57b4b9f465197251c8d
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/sociedade-secreta-dos-segundos-filhos-reais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/sociedade-secreta-dos-segundos-filhos-reais-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Sam (Peyton Elizabeth Lee) é uma princesa rebelde segunda na linha de sucessão do trono de Ilíria, atualmente ocupado por sua mãe. Quando seu desinteresse pela vida real chega ao limite, ela descobre que tem superpoderes e pertence a uma antiga sociedade secreta que tem a missão de manter a paz no reino..</info>
-
-
 
 
 
