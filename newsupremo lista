@@ -265,9 +265,11 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d95c8242005641f6dd
 
 
 
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/phineas-and-ferb-o-filme-candace-contra-o-universo-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes|Animação ",Phineas and Ferb, O Filme - Candace Contra o Universo
+#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/phineas-and-ferb-o-filme-candace-contra-o-universo-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes ",Phineas and Ferb, O Filme - Candace Contra o Universo
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03A78C8280B0ED6A9DAE2B49B1D6E8CD93A1BDE4
 
+#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/phineas-and-ferb-o-filme-candace-contra-o-universo-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Animação ",Phineas and Ferb, O Filme - Candace Contra o Universo
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03A78C8280B0ED6A9DAE2B49B1D6E8CD93A1BDE4
 
 
 <title>[COLOR silver][B]Sequestro ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
