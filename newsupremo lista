@@ -265,7 +265,7 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d95c8242005641f6dd
 
 
 
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/phineas-and-ferb-o-filme-candace-contra-o-universo-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes ",Phineas and Ferb, O Filme - Candace Contra o Universo
+#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/phineas-and-ferb-o-filme-candace-contra-o-universo-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Filmes|Animação ",Phineas and Ferb, O Filme - Candace Contra o Universo
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03A78C8280B0ED6A9DAE2B49B1D6E8CD93A1BDE4
 
 
@@ -2610,3 +2610,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:146316439516089335a
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/auQMwodfDOBXd9rOlrDjsQ7UsmT.jpg"group-title="Seriados",Os Feiticeiros de Waverly Place 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:280B2A84506405FCA48F51B2574332F70BDCB83D&dn=Os%20Feiticeiros%20de%20Waverly%20Place&tr=http://www.malucos-share.org/announce.php?passkey=4e27858e13f2d62b28b9e837f5945e0d                   
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1iYsv6kjLJEElbmtu2ONe_0nVgCHeHovnK90nUG9vC8hv4LmALRcTO11k8Ri_fG4hJRZnpjKwAhULiurcDtKFGohqrPfqWiQflIfV4A2JCcqM-45h0_ShC7WNyo_V5FcuWXZkxt-R-WceCAsqlQBaboKHduvggLQ1r_kLRLZQXF_UJEP54_gs1GM_DQ", group-title="Animação "
