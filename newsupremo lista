@@ -2579,5 +2579,9 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:280B2A84506405FCA48
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1iYsv6kjLJEElbmtu2ONe_0nVgCHeHovnK90nUG9vC8hv4LmALRcTO11k8Ri_fG4hJRZnpjKwAhULiurcDtKFGohqrPfqWiQflIfV4A2JCcqM-45h0_ShC7WNyo_V5FcuWXZkxt-R-WceCAsqlQBaboKHduvggLQ1r_kLRLZQXF_UJEP54_gs1GM_DQ", group-title="Animação "
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yaX5hliSF1rwZ9WVNbUchndjFSb.jpg"group-title="Seriados ",The Last of Us ep1
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27844a520eb9cf8363e88c1d9007db179a9dc552
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg"group-title="Seriados ",The Last of Us ep1
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6f9ad9bcec466aeb301e1b105bdf8fafac9e04b&dn=VEMTORRENT.COM.-DUBLADO-DUAL-AUDIO-.The.Last.of.Us.S01E01.720p.FULL.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg"group-title="Seriados ",The Last of Us ep2
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a62b9c45067e62ce60560c613f6e500ac1658f8b&dn=VEMTORRENT.COM.-DUBLADO-DUAL-AUDIO-.The.Last.of.Us.S01E02.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
