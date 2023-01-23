@@ -272,15 +272,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03A78C8280B0ED6A9DA
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03A78C8280B0ED6A9DAE2B49B1D6E8CD93A1BDE4
 
 
-<title>[COLOR silver][B]Sequestro ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uYDQQg15CBtEvjiqhAfktXrfcFN.jpg" group-title="Filmes ",Sequestro
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:119f71bd8af95dbef6210a5ce11a21c1465d85ce
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/sequestro-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/sequestro-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Sasha quer ser uma repórter de estrelas, mas está estagnada cobrindo eventos da comunidade na estação de TV local. No entanto, quando ela é sequestrada e mantida em cativeiro, e de repente se torna a história....</info>
-
-
-
-
 
 
 
