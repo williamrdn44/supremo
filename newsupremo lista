@@ -231,12 +231,12 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:840f44334831541e2fa
 
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cgwD1GYGoNsWNRqVgAOMrUcciC4.jpg" group-title="Filmes",Missão Presente de Natal
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cgwD1GYGoNsWNRqVgAOMrUcciC4.jpg" group-title="Filmes", Missão Presente de Natal
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f968876c877f69dc13c62599cc9464310649e52b
 
 
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQxTK2Tg8YKNJFpg6bt48IoG7py.jpg" group-title="Filmes",Sonho Olímpico
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQxTK2Tg8YKNJFpg6bt48IoG7py.jpg" group-title="Filmes", Sonho Olímpico
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e207e54bd91d7a4e5e7c267f1abfab4e7efe02df
 
 
