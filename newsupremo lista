@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1iYsv6kjLJEElbmtu2ONe_0nVgCHeHovnK90nUG9vC8hv4LmALRcTO11k8Ri_fG4hJRZnpjKwAhULiurcDtKFGohqrPfqWiQflIfV4A2JCcqM-45h0_ShC7WNyo_V5FcuWXZkxt-R-WceCAsqlQBaboKHduvggLQ1r_kLRLZQXF_UJEP54_gs1GM_DQ", group-title="Filmes"
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh1iYsv6kjLJEElbmtu2ONe_0nVgCHeHovnK90nUG9vC8hv4LmALRcTO11k8Ri_fG4hJRZnpjKwAhULiurcDtKFGohqrPfqWiQflIfV4A2JCcqM-45h0_ShC7WNyo_V5FcuWXZkxt-R-WceCAsqlQBaboKHduvggLQ1r_kLRLZQXF_UJEP54_gs1GM_DQ", group-title="Filmes "
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yaX5hliSF1rwZ9WVNbUchndjFSb.jpg"group-title="Filmes ",Demon Slayer - Mugen Train: O Filme 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27844a520eb9cf8363e88c1d9007db179a9dc552
@@ -227,17 +227,6 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df8d93a68dad9ccc947
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d88x4Jnyhr4xErOYeJCspcxI34h.jpg" group-title="Filmes ",Bob Esponja - O Incrível Resgate
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:840f44334831541e2fa79eade6dfac74338c6463
-
-
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cgwD1GYGoNsWNRqVgAOMrUcciC4.jpg" group-title="Filmes", Missão Presente de Natal
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f968876c877f69dc13c62599cc9464310649e52b
-
-
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mQxTK2Tg8YKNJFpg6bt48IoG7py.jpg" group-title="Filmes", Sonho Olímpico
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e207e54bd91d7a4e5e7c267f1abfab4e7efe02df
 
 
 
