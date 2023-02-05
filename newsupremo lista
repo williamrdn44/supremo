@@ -308,35 +308,16 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:275bd898e4f91329dde
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ad049b8b1738e2df96ff57b4b9f465197251c8d
 
 
-
-<title>[COLOR silver][B]Contos do Caçador de Sombras  ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg" group-title="Filmes ",Contos do Caçador de Sombras
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:23101594070d507578f858fb630cbcb210ef1233
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/contos-do-cacador-de-sombras-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/contos-do-cacador-de-sombras-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Um lendário caçador de demônios (Jackie Chan), rastreando as bestas que entram na dimensão humana, assistido por um protegido de um homem da lei e um grupo heterogêneo de monstros amigos..</info>
 
 
-
-
-
-
-<title>[COLOR silver][B]Nekrotronic  ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f38AvCRApWsfZQ4AUCQak1uMA6u.jpg" group-title="Filmes ",Nekrotronic 
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ef1df982d6efcdf315eb53afc617eab02da5ebc
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/nekrotronic-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/nekrotronic-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Um jovem tem sua vida mudada da noite para o dia quando ele descobre que é parte de um grupo chamado Nekromancers. Caçadores de forças sobrenaturais malignas, os Nekromancers se põem a lutar contra seres demoníacos que usam aplicativos e redes sociais para possuir pessoas..</info>
 
 
-
-
-
-<title>[COLOR silver][B]Mentira Incondicional ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yI4KnWMr4731pDoGYHNTwqlttdI.jpg" group-title="Filmes ",Mentira Incondicional
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30d77e7ff74669ac807d3fdc4b143e62fab6ed88
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/mentira-incondicional-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/mentira-incondicional-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Quando sua filha adolescente confessa ter matado impulsivamente seu melhor amigo, dois pais desesperados tentam encobrir o crime horrível, levando-os a uma complicada teia de mentiras e enganos...</info>
-
-
 
 
 <title>[COLOR silver][B]Magia Invertida ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
