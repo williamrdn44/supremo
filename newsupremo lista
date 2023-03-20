@@ -323,12 +323,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30d77e7ff74669ac807
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae1292e138ace9d7f1d764274f95ea2e1a83ff0e&dn=Animais%20Fant%c3%a1sticos%20-%20Os%20Segredos%20de%20Dumbledore%202022%201080p%20WEB-DL%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.publicbt.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce
 
 
-<title>[COLOR silver][B]Os 7 de Chicago ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f8501cd71882eb5ff70e273ef7a3f189cc0761d
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/os-7-de-chicago-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/os-7-de-chicago-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Baseado em uma história real, os 7 de Chicago acompanha a manifestação anti-guerra do Vietnã, que interrompeu o congresso do partido Democrata em 1968. Ocorreram diversos confrontos entre a polícia e os participantes. Dezesseis pessoas foram indiciadas pelo ato...</info>
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3aJNiESDK7quCw9IpsUCFXqvq24.jpg" group-title="Filmes ",Homem-Formiga e a Vespa: Quantumania
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8810E5D189288567648DCC431EB2DA994DDD2AFE&dn=Ant-Man.and.the.Wasp.Quantumania.2023.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
 
 <title>[COLOR silver][B]Manual de Caça a Monstros ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
