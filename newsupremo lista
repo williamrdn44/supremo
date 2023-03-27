@@ -327,11 +327,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae1292e138ace9d7f1d
 plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8810E5D189288567648DCC431EB2DA994DDD2AFE&dn=Ant-Man.and.the.Wasp.Quantumania.2023.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
 
-<title>[COLOR silver][B]Manual de Caça a Monstros ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd1e8c7a7eca81596b6c40f79563f0c7086ea422
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/manual-de-caca-a-monstros-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/manual-de-caca-a-monstros-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Uma antipática babá que não gosta muito de crianças precisa se juntar à uma sociedade secreta de babás para lutar contra criaturas da noite quando a criança que ela está cuidando é sequestrada por monstros...</info>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5WCM2gGB0mGunbssHX7okAoEeUv.jpg" group-title="Filmes ",Shazam! Fúria dos Deuses
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1680796D987EF4EDA6DA42FF267D05A385089653&dn=Shazam.Fury.of.the.Gods.2023.720p.CAMRip.Dublado.V.2.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=wss%3a%2f%2ftracker.btorrent.xyz&tr=http%3a%2f%2ftrax.corbina.net%3a6969%2fannounce
 
 
 
