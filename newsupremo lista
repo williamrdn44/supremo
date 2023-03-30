@@ -333,11 +333,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1680796D987EF4EDA6D
 
 
 
-<title>[COLOR silver][B]Meu Amigo Robô ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:534459ddeb798c810cbf8ed9f1762620ec2ac1bd
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/meu-amigo-robo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/meu-amigo-robo-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Moscou, Rússia. A-112 é um robô humanoide destinado a atuar em situações de resgate, de forma a salvar pessoas e diminuir riscos aos humanos. Entretanto, apesar do longo tempo de ensino por uma dedicada equipe de cientistas, ele ainda comete erros básicos de avaliação, quando precisa entrar em ação. Com o projeto correndo riscos de ser cancelado, o robô foge do laboratório decidido a descobrir o que é uma família. Em sua busca ele conhece Mitya, filho de dois cientistas do local que o criou, que é negligenciado pelos pais. Não demora muito para que eles se tornem amigos e Mitya o ajude a se esconder, quando sua fuga se torna pública.....</info>
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/97NPC9AI2FptBfJlMRN9psnvT13.jpg" group-title="Filmes ",John Wick 4: Baba Yaga 
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649C416A0BBE5252BA282B4F&dn=John.Wick.4.2023.720p.CAMRip.Dublado.mkv&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce
 
 
 
