@@ -343,13 +343,8 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCAC2391B26F4CCD649
 
 
 
-<title>[COLOR silver][B]O Braço Direito ()[/COLOR][/B][COLOR yellow][B][/COLOR][/B]</title>
-plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43cef37dc38c26dee5b87d192da65c848e5ff836
-#EXTINF:-1 tvg-logo="https://viatorrents.com/imagens/o-braco-direito-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg group-title="Filmes "
-<fanart>https://viatorrents.com/imagens/o-braco-direito-download-torrent--dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</fanart>
-<info>Em?O Braço Direito? conhecemos a história de Anselmo, um ex-investigador da Polícia Civil que agora atua clandestinamente no Mercado de Ações como o homem de confiança e “faz-tudo” de um magnata da Bovespa. Ele sofre de metástase (câncer generalizado) e tem pouco tempo para solucionar complexas situações profissionais e pessoais......</info>
-
-
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3XxqeuAkObpTC4UUK6QIYA0RcaR.jpg" group-title="Filmes ",Dungeons & Dragons: Honra Entre Rebeldes 
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NKMPGJ666CXI5IOOM5CFPH4VRLZTQLXH&dn=Dungeons.and.Dragons.Honor.Among.Thieves.2023.720p.CAM.h264-C1NEM4%5BTGx%5D&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce
 
 
 
